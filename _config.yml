@@ -53,7 +53,7 @@ social-network-links:
 # email: "dylanharrismackey@outlook.com"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
 # facebook: deanattali
-  github: dhmackey
+# github: dhmackey
 # twitter: daattali
 # patreon: DeanAttali
 # youtube: "@daattali"
@@ -75,7 +75,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-   discord: users/trenjunkie   #  discord: "invite_code" or "users/userid" or "invite/invite_code" 
+#  discord: "users/trenjunkie"   # discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
