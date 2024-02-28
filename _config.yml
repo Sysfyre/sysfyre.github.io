@@ -20,11 +20,11 @@ author: Dylan Mackey
 ###############################################
 
 navbar-links:
-  About: "about"
+  About Us: "about-us"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Beautiful Jekyll: "https://beautifuljekyll.com/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://github.com/dhmackey"
+  Author's home: "https://github.com/dhmackey/"
 
 ################
 # --- Logo --- #
