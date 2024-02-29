@@ -131,14 +131,14 @@ keywords: "sysfyre, discord, bot, software, ai, tech, startup, new, technology, 
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#123456"
+navbar-col: "#191970"
 navbar-text-col: "#ffffff"
 navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+page-col: "#ffffff"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#123456"
+footer-col: "#191970"
 footer-text-col: "#777777"
 footer-link-col: "#ffffff"
 footer-hover-col: "#0085A1"
