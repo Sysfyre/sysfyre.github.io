@@ -20,11 +20,10 @@ author: Dylan Mackey
 ###############################################
 
 navbar-links:
+  Home: "https://sysfyre.com/"
+  Docs: "docs"
   About Us: "about-us"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com/"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://github.com/dhmackey/"
+  Sign In: "sign-in"
 
 ################
 # --- Logo --- #
@@ -32,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/sysfyre-logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,13 +49,13 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-# email: "dylanharrismackey@outlook.com"
-# rss: true  # remove this line if you don't want to show an RSS link at the bottom
-# facebook: deanattali
-# github: dhmackey
-# twitter: daattali
-# patreon: DeanAttali
-# youtube: "@daattali"
+#  email: "dylanharrismackey@outlook.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: deanattali
+   github: dhmackey
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@daattali"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -121,10 +120,10 @@ edit_page_button: false
 # Allow sub-menu items (second-level navigation menu items) to be longer than the top-level menu
 # If this setting is off, then long sub-menu words might get cut off
 # See https://github.com/daattali/beautiful-jekyll/issues/765 to understand the issue this setting can solve
-navbar-var-length: false
+navbar-var-length: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "sysfyre, discord, bot, software, ai, tech, startup, new, technology, automated, automation, server, webhook, channel, text, voice, chat, friends"
 
 ######################################
 # --- Colours / background image --- #
