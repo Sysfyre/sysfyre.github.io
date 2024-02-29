@@ -13,7 +13,7 @@
 title: Sysfyre
 
 # Your name to show in the footer
-author: Dylan Mackey
+author: © 2024 Sysfyre. All rights reserved.
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -34,7 +34,7 @@ navbar-links:
 avatar: "/assets/img/sysfyre-logo-nobg.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: false
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -62,7 +62,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+   instagram: dhmackey
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
@@ -74,7 +74,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: "users/trenjunkie"   # discord: "invite_code" or "users/userid" or "invite/invite_code" 
+   discord: trenjunkie   # discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
@@ -82,7 +82,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: This website is a virtual proof that I'm awesome
+rss-description: Sysfyre Discord Bot. Automation greatness awaits.
 
 ###########################
 # --- General options --- #
