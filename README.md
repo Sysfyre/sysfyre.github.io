@@ -4,8 +4,7 @@
 
 > Forked by [trenjunkie](https://github.com/dhmackey) &middot; [Sysfyre](https://sysfyre.com/)
 
-<img src="/assets/img/sysfyre-logo.png" width="200" height="200">
-![sysfyre discord bot logo](/assets/img/sysfyre-logo.png)
+<img src="/assets/img/sysfyre-logo.png" width="250" height="250">
 
 |   Table of Contents             |
 |---------------------------------|
