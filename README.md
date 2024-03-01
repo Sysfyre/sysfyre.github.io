@@ -33,9 +33,11 @@
 
 # Getting help
 
-[Jekyll FAQ](https://beautifuljekyll.com/faq)
-[Jekyll documentation](https://jekyllrb.com/)
-[Jekyll support forum](https://talk.jekyllrb.com/).
+|                      Useful Links                          |
+|------------------------------------------------------------|
+|     [Jekyll FAQ](https://beautifuljekyll.com/faq)          |    
+|     [Jekyll documentation](https://jekyllrb.com/)          |
+|     [Jekyll support forum](https://talk.jekyllrb.com/).    |
 
 # Contributions
 
