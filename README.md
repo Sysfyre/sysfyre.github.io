@@ -4,14 +4,15 @@
 
 > Forked by [trenjunkie](https://github.com/dhmackey) &middot; [Sysfyre](https://sysfyre.com/)
 
+<img src="/assets/img/sysfyre-logo.png" width="200" height="200">
 ![sysfyre discord bot logo](/assets/img/sysfyre-logo.png)
 
-|   Table of Contents   |
-|-----------------------|
-| [Features](#features) |
-| [Getting help](#getting-help) |
+|   Table of Contents             |
+|---------------------------------|
+| [Features](#features)           |
+| [Getting help](#getting-help)   |
 | [Contributions](#contributions) |
-| [Credits](#credits) |
+| [Credits](#credits) |           |
 
 **Sysfyre** is a *ready-to-use* discord bot to help you create things.
 
