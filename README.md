@@ -4,9 +4,7 @@
 
 > Forked by [trenjunkie](https://github.com/dhmackey) &middot; [Sysfyre](https://sysfyre.com/)
 
-**Sysfyre** is a *ready-to-use* discord bot to help you create things.
-
-**If you enjoy the website design for Sysfyre Discord Bot, please consider [supporting us](https://sysfyre.com/support-us). You'll also gain access to our exclusive newsletter and more!**
+![sysfyre discord bot logo](/assets/img/sysfyre-logo.png)
 
 |   Table of Contents   |
 |-----------------------|
@@ -14,6 +12,10 @@
 | [Getting help](#getting-help) |
 | [Contributions](#contributions) |
 | [Credits](#credits) |
+
+**Sysfyre** is a *ready-to-use* discord bot to help you create things.
+
+**If you enjoy the website design for Sysfyre Discord Bot, please consider [supporting us](https://sysfyre.com/support-us). You'll also gain access to our exclusive newsletter and more!**
 
 # Features
 
