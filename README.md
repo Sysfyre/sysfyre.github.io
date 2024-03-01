@@ -35,9 +35,9 @@
 
 |                      Useful Links                          |
 |------------------------------------------------------------|
-|     [Jekyll FAQ](https://beautifuljekyll.com/faq)          |    
 |     [Jekyll documentation](https://jekyllrb.com/)          |
-|     [Jekyll support forum](https://talk.jekyllrb.com/).    |
+|     [Jekyll support forum](https://talk.jekyllrb.com/)     |
+|     [Jekyll FAQ](https://beautifuljekyll.com/faq)          |
 
 # Contributions
 
