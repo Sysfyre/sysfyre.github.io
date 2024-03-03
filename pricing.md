@@ -5,9 +5,9 @@ subtitle: Find the perfect plan for your Discord server.
 full-width: true
 ---
 
-<div class=" container-fluid " role="main">
+<div class="container-fluid" role="main">
     <div class="row">
-      <div class=" col ">
+      <div class="col">
         
   
         <div id="plans-container" class="container">
@@ -39,9 +39,7 @@ full-width: true
         <div class="plan-card recommended">
           <div class="plan-name">Individual</div>
           <div class="plan-price">
-            <div class="dollarsign">$</div>
-            <div class="pricenum">5</div>
-            <div class="permonth">/month</div>
+            <div class="pricepermonth">$5/month</div>
           </div>
           <hr>
           <div class="plan-benefits">
@@ -90,11 +88,6 @@ full-width: true
       </div>
     </div>
   </div>
-  
-  
-        
-  
-        
   
       </div>
     </div>
