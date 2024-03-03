@@ -22,6 +22,7 @@ author: © 2024 Sysfyre. All rights reserved.
 navbar-links:
   Home: "https://sysfyre.com/"
   Docs: "docs"
+  Pricing: "pricing"
   About Us: "about-us"
   Sign In: "sign-in"
 
@@ -74,7 +75,7 @@ social-network-links:
 #  bluesky: yourname
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-   discord: trenjunkie   # discord: "invite_code" or "users/userid" or "invite/invite_code" 
+   discord: XYr3RZRz5y  # discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
 #  gitlab: yourname
