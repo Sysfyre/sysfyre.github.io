@@ -5,11 +5,6 @@ subtitle: Find the perfect plan for your Discord server.
 full-width: true
 ---
 
-<div class="container-fluid" role="main">
-    <div class="row">
-      <div class="col">
-        
-  
         <div id="plans-container" class="container">
     <div class="row no-gutters">
   
@@ -88,9 +83,4 @@ full-width: true
       </div>
     </div>
   </div>
-  
-      </div>
-    </div>
-  </div>
-  
   
